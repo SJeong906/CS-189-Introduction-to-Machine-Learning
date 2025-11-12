@@ -27,7 +27,7 @@
 | Gradient Descent (2)              |       |
 | Neural Networks (1): Build Non-linearity, Architecture, Activation Functions |       |
 | Neural Networks (2)                  |       |
-| Neural Networks (3): Backpropagation |[Homework 3](https://github.com/SJeong906/CS-189-Introduction-to-Machine-Learning/blob/main/Project%203/hw3.ipynb)|
+| Neural Networks (3): Backpropagation |[Project 3 : Optimizers and Backpropagation](https://github.com/SJeong906/CS-189-Introduction-to-Machine-Learning/blob/main/Project%203/hw3.ipynb)|
 | Neural Networks (4): Batch Normalization, Initialization, Regularization |       |
 | Neural Networks & Backpropagation                   |       |
 | Architectures: CNN                  |       |
