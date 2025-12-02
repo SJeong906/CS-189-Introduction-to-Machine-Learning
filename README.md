@@ -19,22 +19,23 @@
 | ML Mechanics, Terminology, and Techniques  |    |
 | K-Means and Probability            |      |
 | Density Estimation and Gaussian Mixture Models  |       |
-| Linear Regression MLE              |       |
-| Linear Regression                  |       |
-| MLE + Logistic Regression (1)      |[Project 2 : Welcome to Arena](https://github.com/SJeong906/CS-189---Introduction-to-Machine-Learning/tree/main/Project%202)       |
-| MLE + Logistic Regression (2)      |       |
-| Gradient Descent (1)           |       |
-| Gradient Descent (2)              |       |
-| Neural Networks (1): Build Non-linearity, Architecture, Activation Functions |       |
-| Neural Networks (2)                  |       |
-| Neural Networks (3): Backpropagation |[Project 3 : Optimizers and Backpropagation](https://github.com/SJeong906/CS-189-Introduction-to-Machine-Learning/blob/main/Project%203/hw3.ipynb)|
-| Neural Networks (4): Batch Normalization, Initialization, Regularization |       |
-| Neural Networks & Backpropagation                   |       |
-| Architectures: CNN                  |       |
-| Architectures: RNN                |        |
-| Transformers                       |[Homework 4]()|
-| Generative Models - NLP (LLM) Part 1 |       |
-| Generative Models - NLP (LLM) Part 2 |       |
-| Dimensionality Reduction (PCA) |       |
-| Auto-encoder + GAN Basics |[Homework 5]()|
+| GMM Recap and Linear Regression (1)             |       |
+| Linear Regression (2)                  |       |
+| Linear Regression (3)      |      |
+| Bias-Variance Trade-off     |       |
+| Logistic Regression (1)           |[Project 2 : Welcome to Arena](https://github.com/SJeong906/CS-189---Introduction-to-Machine-Learning/tree/main/Project%202)|
+| Logistic Regression (2)              |       |
+| Optimization and Gradient Descent |       |
+| Adam and Stochastic Gradient Descent                  |       |
+| Neural Networks and PyTorch |        |
+| Pytorch Continued and Backpropagation |[Project 3 : Optimizers and Backpropagation](https://github.com/SJeong906/CS-189-Introduction-to-Machine-Learning/blob/main/Project%203/hw3.ipynb)|
+| Neural Network Design and Regularization            |       |
+| NN + Architectures: CNN           |       |
+| Architectures: CNN                |        |
+| CNN and Autoencoder                       |[Project 4 : Convolutional Neural Networks and DNABERT, ConvNeXt](https://github.com/SJeong906/CS-189-Introduction-to-Machine-Learning/tree/main/Project%204)|
+| Transformers      |       |
+| Transformers and Language Modeling |       |
+| LLM Training and Applications |       |
+| Self-Supervised Learning |       |
+| Contrastive Learning and Diffusion Models |[Project 5 : LLM Fine-tuning with Transformers]()|
 
