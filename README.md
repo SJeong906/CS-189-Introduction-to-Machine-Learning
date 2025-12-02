@@ -11,7 +11,10 @@
 >
 > Finally, the course will include guest lectures from leading researchers, discussions of emerging topics in the field, and opportunities to connect theoretical concepts to cutting-edge research and applications.
 
-## 2. Contents
+## 2. Course Webpage
+> https://eecs189.org/fa25/
+
+## 3. Contents
 
 |Contents                            |Project|
 |------------------------------------|-------|
