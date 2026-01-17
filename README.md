@@ -40,5 +40,5 @@
 | Transformers and Language Modeling |       |
 | LLM Training and Applications |       |
 | Self-Supervised Learning |       |
-| Contrastive Learning and Diffusion Models |[Project 5 : LLM Fine-tuning with Transformers]()|
+| Contrastive Learning and Diffusion Models |[Project 5 : Finetuning LLMs with SFT](https://github.com/SJeong906/CS-189-Introduction-to-Machine-Learning/tree/main/Project%205)|
 
